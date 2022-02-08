@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAq8LWyzxZcUOTjHfz07BPawAAAAACAAAAAAAQZgAAAAEAACAAAABpqLTxkMH5LNwhxYUqTUIOWblXzx+/mXxzEU6LAu/jAwAAAAAOgAAAAAIAACAAAABEtA0Ys7JaqqALKJykGxSkMDV4JskBhhWfa0wcTiiVt4AAAAAa8Z1ZYRktyMBCFFDhJdBdXeA6QilxWat5hRoHPqjNaRmMnzxik43g37idb+2KHoux47dSCz1VLza/5jCAsAzG9WTMZcqTakauuCx1TBiKb7+bnfVgPAYOD90BxSJJcNmrPh6ZoZxuCLVsKP4cgTf5HDjpuM97uDgYQ++TqpEB4kAAAAB5uvizb9SsyXtK8Xet/NR/NGX7SWsMWYSDkH91qoxaekDyxPZ1f2nzTlpOMwduFdfA5yWWuOM+wIv/EBn4pTZm</EncryptedPassword>
+    <History>True|2022-02-03T12:32:54.6670499Z;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <EFMigrations Include="Api_Teste.Data.ContactDbContext">
+      <Value>Data Source=tcp:api-testedbserver.database.windows.net,1433%3bInitial Catalog=Api_Teste_db%3bUser Id=sqladmin%40api-testedbserver%3bPassword=Baluzinho2020</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

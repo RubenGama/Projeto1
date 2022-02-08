@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Users\Ruben Gama\source\repos\Api_Teste\Api_Teste\obj\Release\netcoreapp3.1\PubTmp\Out\" />
+  <dbfullsql path="C:\Users\Ruben Gama\source\repos\Api_Teste\Api_Teste\obj\Release\netcoreapp3.1\PubTmp\EFSQLScripts\Api_Teste.Data.ContactDbContext.sql" />
+</sitemanifest>
